@@ -1,2 +1,2 @@
 # College
-College Programming Progression
+College Programming
